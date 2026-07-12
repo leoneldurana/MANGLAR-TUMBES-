@@ -1,5 +1,5 @@
 # Blue-Carbon Manglar Tumbes 🌊🦀
-### Multijurisdictional Blue Carbon Credit Tokenization Platform on LACNet
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
