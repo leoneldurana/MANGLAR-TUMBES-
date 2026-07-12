@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/29944539/README.md)
+
 # Blue-Carbon TTF (Manglar Tumbes)
 ### A Multijurisdictional Tokenized Ecosystem for Blue Carbon Credits
 
