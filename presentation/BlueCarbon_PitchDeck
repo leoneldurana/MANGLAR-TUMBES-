@@ -1,1 +1,159 @@
 
+# Blue-Carbon TTF (Manglar Tumbes) — 10-Slide Executive Pitch Deck Outline
+
+---
+
+## Slide 1 — Title & Hook
+
+**Slide Title:** *Blue-Carbon TTF: Tokenizing the Mangroves of Tumbes*
+
+**Core Objective:** Establish identity and stakes in five seconds — this is a real, deployed protocol protecting a specific, named ecosystem, not a generic concept.
+
+**Visual Layout & Graphics Suggestion:** Full-bleed background photo of the Tumbes mangrove canopy at water level; project name and tagline centered; small LACNet + hackathon logos bottom corner.
+
+**Talking Points:**
+- "Blue-Carbon TTF is a multijurisdictional Web3 protocol that turns verified mangrove restoration into tradeable climate assets."
+- "Built on LACNet, piloted in the Santuario Nacional Los Manglares de Tumbes — Peru's largest mangrove sanctuary."
+- "Today we'll show you a functional testnet, live dashboard, and 3-year growth plan."
+
+---
+
+## Slide 2 — The Blue Carbon Opportunity
+
+**Slide Title:** *Blue Carbon: The Ocean's Climate Advantage*
+
+**Core Objective:** Educate non-technical judges on why mangroves matter more, per hectare, than most terrestrial forests — before pitching the tech.
+
+**Visual Layout & Graphics Suggestion:** Side-by-side comparison graphic: "Terrestrial Forest" vs. "Mangrove / Blue Carbon Ecosystem" carbon sequestration rate icons; below it, a callout stat box for the Tumbes Sanctuary.
+
+**Talking Points:**
+- "Coastal blue carbon ecosystems — mangroves, marshes, seagrass — cover roughly 50 million hectares worldwide."
+- "Mangroves sequester carbon at rates far exceeding most terrestrial forests, while also buffering coastlines from storms."
+- "The Santuario Nacional Los Manglares de Tumbes alone stores an estimated 1.78 million megagrams of carbon — about 6.55 million tonnes of CO2."
+
+---
+
+## Slide 3 — The Core Problem
+
+**Slide Title:** *Protected on Paper, Threatened in Practice*
+
+**Core Objective:** Show the judges a concrete, local threat (not an abstract global one) and name who is being left out economically.
+
+**Visual Layout & Graphics Suggestion:** Photo or icon of shrimp-farming ponds (*langostineras*) encroaching on mangrove; simple flow diagram showing "Carbon Credit Revenue" bypassing a small icon labeled "Coastal Cooperatives."
+
+**Talking Points:**
+- "Despite protected status, the sanctuary is degraded by illegal deforestation for shrimp-farming ponds, releasing sequestered carbon back into the atmosphere."
+- "The deeper issue is economic: coastal cooperatives who depend on crab, shrimp, and *concha negra* harvesting are structurally excluded from the carbon-credit value chain their own conservation work enables."
+- "Traditional carbon registries offer these communities no direct, transparent share of the revenue their ecosystem generates."
+
+---
+
+## Slide 4 — Traditional Registries vs. Web3 (The Gap)
+
+**Slide Title:** *Why Centralized Carbon Registries Fail*
+
+**Core Objective:** Build the case for blockchain specifically — not as a buzzword, but as a fix for named, verifiable failures.
+
+**Visual Layout & Graphics Suggestion:** Two-column comparison table/graphic: "Traditional Centralized Registries" (red icons: opacity, greenwashing risk, high fees) vs. "Blue-Carbon TTF on LACNet" (green icons: on-chain transparency, zero gas fees, multijurisdictional).
+
+**Talking Points:**
+- "Centralized registries are vulnerable to greenwashing and double-counting because issuance logic isn't independently verifiable."
+- "They're also siloed — a credit issued in one country's registry has no portability to another."
+- "LACNet's zero-GAS-fee testnet removes the cost barrier that would otherwise exclude smaller cooperatives from participating."
+
+---
+
+## Slide 5 — The Solution (Blue-Carbon TTF)
+
+**Slide Title:** *From Verified Hectare to On-Chain Credit*
+
+**Core Objective:** Explain, in one clean flow, exactly what the protocol does end-to-end.
+
+**Visual Layout & Graphics Suggestion:** Horizontal flowchart: "Drone/Satellite MRV Data" → "MRV Oracle Verification" → "Smart Contract Minting" → "TTF Credit (tCO2eq) in Wallet."
+
+**Talking Points:**
+- "Blue-Carbon TTF converts drone- and satellite-verified restoration data into Transferable Tokenized Framework credits, denominated in tCO2eq."
+- "Each credit is minted directly on-chain — auditable in real time by anyone, not just the issuing authority."
+- "This replaces a trust-based, opaque process with a verify-then-mint pipeline."
+
+---
+
+## Slide 6 — Technical Architecture & Zero-Gas Model
+
+**Slide Title:** *Built for Zero-Cost, Multijurisdictional Scale*
+
+**Core Objective:** Give technical judges enough substance to trust the engineering, without losing non-technical judges.
+
+**Visual Layout & Graphics Suggestion:** Simple architecture diagram: Remix IDE → Solidity Contract → LACNet Open Pro-Testnet (EVM) → BaseRelayRecipient (gasless layer) → IPFS (data pinning); use the same visual language as the live dashboard's terminal log.
+
+**Talking Points:**
+- "Contracts are written and deployed via Remix IDE onto the LACNet Open Pro-Testnet — an EVM-compatible chain with zero gas fees."
+- "The BaseRelayRecipient layer enables gasless meta-transactions, so coastal cooperatives never need to hold native gas tokens to participate."
+- "Verification imagery and MRV data are pinned to IPFS, creating a tamper-evident, decentralized audit trail."
+
+---
+
+## Slide 7 — Tokenomics & Community-Centered Distribution
+
+**Slide Title:** *55% Goes Directly to the Coast*
+
+**Core Objective:** Prove the "community-first" claim with a hard number, not just a mission statement.
+
+**Visual Layout & Graphics Suggestion:** The donut/pie chart already built for the project: Coastal Communities 55%, Technology/Platform 20%, MRV Verification 15%, Nursery Reinvestment 10%.
+
+**Talking Points:**
+- "Every single TTF minting event is split automatically by smart contract — no manual disbursement, no discretion."
+- "55% goes directly to the coastal cooperatives who steward the restored hectares."
+- "The remaining 45% is fully accounted for: platform upkeep, independent MRV verification, and reinvestment into mangrove nurseries."
+
+---
+
+## Slide 8 — The 3R Circular Economy Framework
+
+**Slide Title:** *Reduce, Reuse, Recycle — On-Chain*
+
+**Core Objective:** Show judges that the token has real utility beyond speculation — it closes a loop.
+
+**Visual Layout & Graphics Suggestion:** Three-icon row: ♻️ Reduce (corporate offset/burn), 🌱 Reuse (nursery reinvestment from pruning waste), 🎣 Recycle (ecotourism & fishing-quota access) — matching the dashboard's action panel.
+
+**Talking Points:**
+- "Reduce: corporations and individuals can burn TTF credits to offset their own verified emissions."
+- "Reuse: a share of every transaction reinvests directly into mangrove nurseries, funding the next restoration cycle."
+- "Recycle: cooperatives can redeem accumulated TTF for ecotourism access or fishing-quota privileges — creating tangible, local utility."
+
+---
+
+## Slide 9 — Pilot Traction & Projected KPIs
+
+**Slide Title:** *Proof of Concept, Proof of Scale*
+
+**Core Objective:** Convert the audience from "interesting idea" to "already working, and here's the growth math."
+
+**Visual Layout & Graphics Suggestion:** The KPI growth bar/line chart already built (Hectares, Cooperatives, TTF minted across Year 1–3), plus a small callout box for the four pilot stats.
+
+**Talking Points:**
+- "In the pilot phase alone: 40 hectares verified, 860 TTF credits minted, 9 active coastal cooperatives, and a 22% increase in *concha negra* capture in restored zones."
+- "Our 3-year projection scales to 800 hectares and 17,200 TTF credits minted, expanding from Peru into Ecuador and Colombia."
+- "The architecture was multijurisdictional from day one — this isn't a future rebuild, it's already parameterized."
+
+---
+
+## Slide 10 — Future Roadmap & Vision
+
+**Slide Title:** *From Testnet to a Regional Blue Carbon Standard*
+
+**Core Objective:** Close with credibility and ambition — a concrete near-term plan plus a long-term vision worth funding.
+
+**Visual Layout & Graphics Suggestion:** The horizontal roadmap timeline graphic already built: Horizon 1 (Months 1–3) → Horizon 2 (Months 4–6) → Horizon 3 (Months 7–12), color-coded green → emerald → blue.
+
+**Talking Points:**
+- "Horizon 1: smart contract audit, cooperative onboarding, and MRV calibration against real sanctuary data."
+- "Horizon 2: satellite/drone automation and NFT verification badges for individually restored plots."
+- "Horizon 3: expansion into Ecuador and Colombia, and a transition to DAO governance co-managed by the cooperatives themselves — aligned directly with SDG 13 and SDG 14."
+
+---
+
+### Design Notes for the Deck
+- Keep the palette consistent with the dashboard and report: deep green (#0F5E4E), emerald (#10B981), and blue (#3B82F6) accents on a white/light background.
+- Reuse the three charts already generated for the written report (revenue donut, KPI growth bars, roadmap timeline) rather than recreating new ones — this keeps visual continuity between the report, the dashboard, and the deck.
+- Keep each slide to a maximum of 3–4 bullet points on-screen; the fuller talking points above are for the spoken narration, not the slide text itself.
