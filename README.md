@@ -1,10 +1,9 @@
-[README_TEMPLATE.md](https://github.com/user-attachments/files/29979316/README_TEMPLATE.md)[Uploading README_TEMPLA# 🌿 Blue-Carbon TTF (Manglar Tumbes)
+
 ### A Multijurisdictional Tokenized Ecosystem for Blue Carbon Credits
 *Final Project — Innovating for a Sustainable Future Hackathon*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
-[![Network](https://img.shields.io/badge/Network-LACNet%20Open%20Pro--Testnet-0F5E4E)]()
-[![Status](https://img.shields.io/badge/Status-Pilot%20Phase-10B981)]()
+
 
 **🔗 Live Dashboard Demo:** `https://leoneldurana.github.io/MANGLAR-TUMBES-/`
 **🔗 Pitch Deck:** https://acesse.one/pitch-deck-manglar-de-tumbes
